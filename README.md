@@ -1,1 +1,1 @@
-# MyProjectPHP2
+# MyProject
